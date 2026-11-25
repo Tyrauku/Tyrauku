@@ -1,6 +1,6 @@
 ## Tyrauku
 
-Free calculators and planners for **Invokers: Titan Legacy** and **RAID: Shadow Legends**.
+Free calculators and planners for **Invokers: Titan Legacy**.
 
 ### 👉 [All my tools in one place: tyrauku.github.io](https://tyrauku.github.io/)
 
@@ -10,8 +10,7 @@ Free calculators and planners for **Invokers: Titan Legacy** and **RAID: Shadow 
 - [Offer Calculator](https://tyrauku.github.io/invokers-offer-calculator/): is that shop pack worth it?
 - [Awakening Calculator](https://tyrauku.github.io/invokers-offer-calculator/awakening/): runs, energy and gems to your target star
 
-**RAID: Shadow Legends**
-- [Offer Calculator](https://tyrauku.github.io/RaidCalculator/) · [Relic Crafting Optimizer](https://tyrauku.github.io/RelicCrafting/) · [past event planners](https://tyrauku.github.io/#raid)
+**Also for RAID:** [RAID Offer Calculator](https://tyrauku.github.io/RaidCalculator/)
 
 **Find me:** [Invokers on YouTube](https://www.youtube.com/@TyraukuGaming) · [RAID on YouTube](https://www.youtube.com/@tyraids) · [Discord](https://discord.gg/bfXwxhRD4A)
 
